@@ -62,35 +62,37 @@ When this user logs in, a new navigation item appears to view **all registered u
 ## 📂 Project Structure (Key Files)
 
 /Online-Task-Tracker/
-│
-├── index.php # Home page (Welcome + Register shortcut)
-├── login.php # Login form
-├── register.php # Registration form
-├── board.php # Task board (only after login)
-├── profile.php # View + update profile
-├── contact.php # Email form to contact developer
-├── userhome.php # User's dashboard
-├── users.php # Admin: user table view
+├── index.php           # Home page (Welcome + Register shortcut)
+├── login.php           # Login form
+├── register.php        # Registration form
+├── board.php           # Task board (only after login)
+├── profile.php         # View + update profile
+├── contact.php         # Email contact form
+├── userhome.php        # User dashboard
+├── users.php           # Admin: user table view
 │
 ├── includes/
-│ ├── header.php
-│ └── footer.php
+│   ├── header.php
+│   └── footer.php
 │
 ├── assets/
-│ └── logo.png
+│   └── logo.png
 │
 ├── css/
-│ └── style.css
+│   └── style.css
+│
 ├── js/
-│ ├── main.js
-│ └── board.js
+│   ├── main.js
+│   └── board.js
+│
 ├── php/
-│ ├── db.php
-│ ├── task_add.php
-│ ├── task_edit.php
-│ ├── task_delete.php
-│ ├── task_fetch.php
-│ ├── task_complete.php
+│   ├── db.php
+│   ├── task_add.php
+│   ├── task_edit.php
+│   ├── task_delete.php
+│   ├── task_fetch.php
+│   └── task_complete.php
+
 
 
 ---
