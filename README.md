@@ -54,6 +54,7 @@ Because this site is hosted on a free web host (ByteHost), you must **clear your
 
 The system has an admin account defined by email:  
 📧 **tysierps123@gmail.com**
+password: 9818123
 
 When this user logs in, a new navigation item appears to view **all registered users** via the `users.php` page.
 
